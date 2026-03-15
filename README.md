@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Zero Trust Bot Security" width="100%">
+</p>
+
 # Zero-Trust Security Contract for AI Bots
 
 A code-enforced, 5-layer security architecture for AI-powered bots that must remain useful to broad audiences **without** trusting prompts, users, callbacks, groups, tools, or previous layers.
