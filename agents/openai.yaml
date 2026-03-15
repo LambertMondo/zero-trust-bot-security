@@ -1,0 +1,8 @@
+interface:
+  display_name: Zero Trust Bot Security
+  short_description: implement or audit a reproducible zero-trust security pipeline
+    for ai bots
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
